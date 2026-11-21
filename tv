@@ -2,6 +2,9 @@
 
 # Movies
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg",Sony AATH
+http://27.124.71.27/Sony_Aath/index.m3u8
+
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg",Jalsa Movie
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
@@ -61,9 +64,11 @@ https://cdn.pishow.tv/ott/live/337/master.m3u8
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Star Utsav Movies
-
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg",Bollygold
+https://jmp2.uk/stvp-IN4000600Q
 
 
 # Entertainment
